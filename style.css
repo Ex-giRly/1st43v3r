@@ -1,0 +1,11 @@
+body{
+    background-color: #a47dab;
+}
+.class{
+    background-color: #de73ff;
+    width: 225px;
+    padding: 50px;
+    border-color: #8f00ff;
+    margin: 5px;
+}
+#id{ background-color: #702963;}
